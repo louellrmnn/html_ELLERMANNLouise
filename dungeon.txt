@@ -1,0 +1,19 @@
+
+Dungeon 1 : justify-end
+Dungeon 2 : justify-center
+Dungeon 3 : justify-around
+Dungeon 4 : justify-between
+Dungeon 5 : items-center
+Dungeon 6 : items-center justify-center
+Dungeon 7 : items-end justify-around
+Dungeon 8 : flex-row-reverse
+Dungeon 9 : flex-col
+Dungeon 10 : justify-center items-end flex-col-reverse
+Dungeon 11 : order-last
+Dungeon 12 : order-first
+Dungeon 13 : self-center
+Dungeon 14 : order-last self-end
+Dungeon 15 : flex-wrap
+Dungeon 16 : flex-wrap-reverse justify-end
+Dungeon 17 : content-between
+Dungeon 18 : flex-wrap-reverse justify-center content-center
