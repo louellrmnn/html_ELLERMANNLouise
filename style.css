@@ -1,0 +1,14 @@
+.element1 {
+	background-color: orange;
+}
+.element2 {
+	background-color: blue;
+}
+.element3 {
+	background-color: green;
+}
+
+#conteneur {
+	display: flex;
+	flex-direction: column;
+}
